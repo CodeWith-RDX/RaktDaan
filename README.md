@@ -1,0 +1,1 @@
+Raktdaan is a webpage for "Blood donors". It offers some services like where is nearby blood bank where that particular blood will be available. I am glad for this opportunity that my college gives me this opportuinity to make a webpage. I had made this during my diploma final year project.
